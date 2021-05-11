@@ -1,5 +1,7 @@
-# contract
+# Uniwarp Contract
 The solidity contract (brains) of uniwarp. This contract is replicated across all supported chains.
+
+The contract is an ERC20 with some extra methods for DAO management and warping between chains.
 
 # Deployments
 
